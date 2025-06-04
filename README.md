@@ -53,13 +53,13 @@
 - 점프 버그 등 QA 관점에서 반복 테스트 진행
 ##
 ### 🔧 사용 에셋 (출처 링크 포함)
-- 고양이
+- [고양이](https://assetstore.unity.com/packages/3d/characters/animals/lowpoly-toon-cat-lite-66083)
 
-- 길고양이
+- [길고양이](https://assetstore.unity.com/packages/3d/characters/animals/mammals/free-chibi-cat-165490)
 
-- 맵/아이템 외 다수
+- [맵/아이템 외 다수](https://assetstore.unity.com/packages/3d/environments/simplepoly-city-low-poly-assets-58899)
 
-- 파티클
+- [파티클](https://assetstore.unity.com/packages/vfx/particles/polygonal-s-low-poly-particle-pack-118355)
 
 - 자세한 목록은 /Assets/_AssetCredits.txt 파일 참고
 ##
